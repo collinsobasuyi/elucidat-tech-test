@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://learning.elucidat.com/course/5c9126fd760e5-611a53751213a",
+    "integrationFolder": "cypress/integration/e2e"
+}
